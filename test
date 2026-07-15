@@ -1,10 +1,18 @@
 [
-  {
-    "title":"admin",
-    "url":"/_admin"
-  },
-  {
-    "title":"help",
-    "url":"/help"
-  }
+  {"title": "Index", "url": "/index"},
+  {"title": "Database", "url": "/database"},
+  {"title": "Search", "url": "/search"},
+  {"title": "Customize your theme", "url": "/admin:themes"},
+  {"title": "Manage this site", "url": "/admin:manage"},
+  {"title": "Test", "url": "/test"},
+  {"title": "List All Pages", "url": "/list-all-pages"},
+  {"title": "to be deleted", "url": "/xiao37"},
+  {"title": "Blank template", "url": "/startnew"},
+  {"title": "Members", "url": "/members"},
+  {"title": "Blank template", "url": "/start"},
+  {"title": "Search this site", "url": "/search:site"},
+  {"title": "Join this site", "url": "/system:join"},
+  {"title": "Recent changes", "url": "/system:recent-changes"},
+  {"title": "", "url": "/nav:top"},
+  {"title": "Sidebar menu", "url": "/nav:side"}
 ]
