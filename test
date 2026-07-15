@@ -1,6 +1,10 @@
 [
   {
-    "title":"HI",
+    "title":"admin",
     "url":"/_admin"
+  },
+  {
+    "title":"help",
+    "url":"/help"
   }
 ]
